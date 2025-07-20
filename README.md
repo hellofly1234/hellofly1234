@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📚 Academic Projects
+
+### 🔹 [Project: Interactive Option Greeks Visualisation Tool](https://github.com/hellofly1234/Interactive-Option-Greeks-Visualisation-Tool)
+
 <!--
 **hellofly1234/hellofly1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
